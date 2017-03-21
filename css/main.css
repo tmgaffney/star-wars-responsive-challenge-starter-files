@@ -1,5 +1,13 @@
 header {
+	background-color: gold;
+	margin-bottom: 40px;
+}
 
+header h1, p {
+	line-height: 70%;
+}
+body {
+	font-family: "Roboto", sans-serif;
 }
 
 .card {
@@ -9,4 +17,9 @@ header {
 
 .card-image {
 	width: 100%;
+}
+
+.card-content {
+	padding: 20px;
+	line-height: 70%
 }
