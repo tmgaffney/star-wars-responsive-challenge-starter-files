@@ -1,0 +1,12 @@
+header {
+
+}
+
+.card {
+	border: 1px solid lightgrey;
+	margin-bottom: 20px;
+}
+
+.card-image {
+	width: 100%;
+}
